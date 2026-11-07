@@ -12,3 +12,7 @@ https://github.com/Sam1983Aing/turun-source
 How the 3D scene itself was built, step by step, with its code: https://github.com/Sam1983Aing/kelingking
 
 By Sam Aing. Third-party notices: NOTICE.txt.
+
+---
+
+Imported from [Sam1983Aing/turun](https://github.com/Sam1983Aing/turun) — original code and attribution preserved.
